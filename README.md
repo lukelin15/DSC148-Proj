@@ -1,1 +1,1 @@
-# DSC148-Proj
+# Predicting Accident Severity - a Classification Story
