@@ -7,6 +7,7 @@ To run the web application, you need to have Streamlit installed. If it's not in
 
 ```bash
 pip install streamlit
+pip install joblib
 ```
 
 Once Streamlit is installed, you can run the web application using the following command:
