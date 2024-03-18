@@ -17,3 +17,5 @@ streamlit run WebApp.py
 After running this command, a new browser window should open displaying the web application.
 
 
+
+Check out Data_Cleaning_and_EDA.ipynb for a more complete story.
